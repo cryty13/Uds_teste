@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds_Teste\\Uds.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds.Domain\\Uds.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds.Domain\\Uds.Domain.csproj",
+        "projectName": "Uds.Domain",
+        "projectPath": "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds.Domain\\Uds.Domain.csproj",
+        "packagesPath": "C:\\Users\\Wbuqui\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Wbuqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds.Infra\\Uds.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds.Infra\\Uds.Infra.csproj",
+        "projectName": "Uds.Infra",
+        "projectPath": "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds.Infra\\Uds.Infra.csproj",
+        "packagesPath": "C:\\Users\\Wbuqui\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Wbuqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds.Domain\\Uds.Domain.csproj": {
+                "projectPath": "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds.Domain\\Uds.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds_Teste\\Uds.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds_Teste\\Uds.WebApi.csproj",
+        "projectName": "Uds.WebApi",
+        "projectPath": "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds_Teste\\Uds.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Wbuqui\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds_Teste\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Wbuqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds.Domain\\Uds.Domain.csproj": {
+                "projectPath": "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds.Domain\\Uds.Domain.csproj"
+              },
+              "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds.Infra\\Uds.Infra.csproj": {
+                "projectPath": "C:\\Users\\Wbuqui\\source\\repos\\Uds_Teste\\Uds.Infra\\Uds.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Domain\bin\Debug\netcoreapp2.1\Uds.Domain.deps.json
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Domain\bin\Debug\netcoreapp2.1\Uds.Domain.dll
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Domain\bin\Debug\netcoreapp2.1\Uds.Domain.pdb
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Domain\obj\Debug\netcoreapp2.1\Uds.Domain.csprojAssemblyReference.cache
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Domain\obj\Debug\netcoreapp2.1\Uds.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Domain\obj\Debug\netcoreapp2.1\Uds.Domain.AssemblyInfoInputs.cache
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Domain\obj\Debug\netcoreapp2.1\Uds.Domain.AssemblyInfo.cs
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Domain\obj\Debug\netcoreapp2.1\Uds.Domain.dll
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Domain\obj\Debug\netcoreapp2.1\Uds.Domain.pdb

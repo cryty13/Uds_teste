@@ -1,0 +1,12 @@
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Infra\bin\Debug\netcoreapp2.1\Uds.Infra.deps.json
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Infra\bin\Debug\netcoreapp2.1\Uds.Infra.dll
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Infra\obj\Debug\netcoreapp2.1\Uds.Infra.csprojAssemblyReference.cache
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Infra\obj\Debug\netcoreapp2.1\Uds.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Infra\obj\Debug\netcoreapp2.1\Uds.Infra.AssemblyInfoInputs.cache
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Infra\obj\Debug\netcoreapp2.1\Uds.Infra.AssemblyInfo.cs
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Infra\bin\Debug\netcoreapp2.1\Uds.Domain.dll
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Infra\bin\Debug\netcoreapp2.1\Uds.Domain.pdb
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Infra\obj\Debug\netcoreapp2.1\Uds.Infra.csproj.CopyComplete
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Infra\bin\Debug\netcoreapp2.1\Uds.Infra.pdb
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Infra\obj\Debug\netcoreapp2.1\Uds.Infra.dll
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds.Infra\obj\Debug\netcoreapp2.1\Uds.Infra.pdb

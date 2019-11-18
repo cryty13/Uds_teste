@@ -1,0 +1,14 @@
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds_Teste\bin\Debug\netcoreapp2.1\Uds_Teste.deps.json
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds_Teste\bin\Debug\netcoreapp2.1\Uds_Teste.runtimeconfig.json
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds_Teste\bin\Debug\netcoreapp2.1\Uds_Teste.runtimeconfig.dev.json
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds_Teste\bin\Debug\netcoreapp2.1\Uds_Teste.dll
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds_Teste\obj\Debug\netcoreapp2.1\Uds_Teste.csprojAssemblyReference.cache
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds_Teste\obj\Debug\netcoreapp2.1\Uds_Teste.csproj.CoreCompileInputs.cache
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds_Teste\obj\Debug\netcoreapp2.1\Uds_Teste.RazorAssemblyInfo.cache
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds_Teste\obj\Debug\netcoreapp2.1\Uds_Teste.RazorAssemblyInfo.cs
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds_Teste\obj\Debug\netcoreapp2.1\Uds_Teste.AssemblyInfoInputs.cache
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds_Teste\obj\Debug\netcoreapp2.1\Uds_Teste.AssemblyInfo.cs
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds_Teste\obj\Debug\netcoreapp2.1\Uds_Teste.RazorTargetAssemblyInfo.cache
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds_Teste\bin\Debug\netcoreapp2.1\Uds_Teste.pdb
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds_Teste\obj\Debug\netcoreapp2.1\Uds_Teste.dll
+C:\Users\Wbuqui\source\repos\Uds_Teste\Uds_Teste\obj\Debug\netcoreapp2.1\Uds_Teste.pdb
